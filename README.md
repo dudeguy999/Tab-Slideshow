@@ -28,7 +28,7 @@
 ## 🖼️ My Use Case
 
 In my use case. I setup the following:
-1. A Windows 11 computer connected to a TV
+1. A Windows 11 non-domain computer connected to a TV. (I always had issues with AutoLogon so opted to remove the computer for the domain)
 2. Remove Password from user account, ensure the computer logs in without sign-in
 3. Setup a Task Sequence that opens Google Chrome on Startup with this command: '"C:\Program Files\Google\Chrome\Application\chrome.exe" --hide-crash-restore-bubble'
 4. Setup the publicly available JSON in preferably github. Add your URLs in the format as previously mentioned.
