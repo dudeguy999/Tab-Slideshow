@@ -1,2 +1,22 @@
-# Tab-Slideshow
-Tab Slideshow is a Chromium tab rotate to automatically shift between tabs. The purpose of this was to build a Chrome Extension to create a Dashboard to rotate through different PowerBI reports.
+# Tab Slideshow Chrome Extension
+
+**Tab Slideshow** is a customizable Chrome extension that automatically cycles through tabs and refreshes inactive ones using a configurable GitHub URL source. Ideal for kiosk displays, dashboards, and productivity tools.
+
+---
+
+## 🚀 Features
+
+- 🔄 **Auto-Rotation** of tabs at a user-defined interval
+- 🕓 **Auto-Refresh** of non-active tabs on a timer
+- 🌐 **Startup URLs** loaded from a public GitHub raw JSON file
+- 🖥️ Launches in **fullscreen or maximized** mode
+- 🧠 Remembers all settings using Chrome sync storage
+- 🟢 Optional **auto-start** on Chrome launch
+- ✅ Validates JSON format before launching
+- 🎛️ Dynamic popup interface with real-time status
+
+---
+
+## 🔧 Installation
+
+1. Install the Extension: 
