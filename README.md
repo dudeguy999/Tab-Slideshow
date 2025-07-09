@@ -25,7 +25,7 @@
 
 ## 📒 Notes
 
-## 🖼️ Use Caes
+## 🖼️ My Use Case
 
 In my use case. I setup the following:
 1. A Windows 11 computer connected to a TV
