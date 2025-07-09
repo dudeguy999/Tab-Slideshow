@@ -19,4 +19,6 @@
 
 ## 🔧 Installation
 
-1. Install the Extension: 
+1. Install the Extension:
+2. Setup a publicly available .json file like [example-url-file.json](https://github.com/dudeguy999/Tab-Slideshow/blob/main/example-url-file.json)
+3. If the file is a Github file. Ensure to copy the link to the Raw file for this to work. 
